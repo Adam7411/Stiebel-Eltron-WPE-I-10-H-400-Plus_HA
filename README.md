@@ -6,7 +6,8 @@ Servicewelt Stiebel Eltron + Home Assistant
 Testowane na panelu sterowania Servicewelt pompy gruntowej Stiebel Eltron WPE-I 10 H 400 Plus.
 
 Servicewelt ma być bez hasła oraz nazwy użytkownika bramy ISG.
-Po lokalnym adresie modułu ISG w sieci domowej z strony panelu sterowania wyciągnięde narzędziem developerskim kilka głównych danych do Home Assistant (mało ale moj panel ISG dużo niedaje)
+Po lokalnym adresie modułu ISG w sieci domowej z strony panelu sterowania wyciągnięde narzędziem developerskim kilka głównych danych do Home Assistant (mało ale moj panel ISG dużo niedaje).
+
 Główny zamiar odczyt podstawowych temparatur, sterowanie pompą i z czasem automatyzacje w HA itp.
 
 
