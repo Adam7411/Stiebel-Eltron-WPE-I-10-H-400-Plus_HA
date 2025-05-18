@@ -1,15 +1,15 @@
-Servicewelt Stiebel Eltron WPE I 10 H 400 Plus Home Assistant
+Servicewelt Stiebel Eltron + Home Assistant
 
 ![screenshoteasy (3)](https://github.com/user-attachments/assets/68b98688-3cbe-4da6-9cb5-c5b27469b862)
 
 
-Testowane na panelu sterowania Servicewelt Stiebel Eltron WPE-I 10 H 400 Plus
-Servicewelt bez hasła oraz nazwy użytkownika bramy ISG
+Testowane na panelu sterowania Servicewelt pompy gruntowej Stiebel Eltron WPE-I 10 H 400 Plus
+Servicewelt ma być bez hasła oraz nazwy użytkownika bramy ISG.
 Po lokalnym adresie modułu ISG w sieci domowej z strony panelu sterowania wyciągnięde narzędziem developerskim kilka głównych danych do Home Assistant (mało ale moj panel ISG dużo niedaje)
 Główny zamiar odczyt podstawowych temparatur, sterowanie pompą i z czasem automatyzacje w HA itp.
 
 
-Wszystkie adresy URL w pliku configuration.yaml korzystają z adresu http://192.168.100.126. Jeśli twój ISG ma inny adres, podmień go wszędzie na swój adres. (zazwyczaj jest 192.168.1.126)
+Wszystkie adresy URL w pliku configuration.yaml korzystają z adresu http://192.168.100.126. Jeśli twój ISG ma inny adres, podmień go wszędzie na swój adres. (domyslny adres zazwyczaj jest 192.168.1.126)
 
 
 
