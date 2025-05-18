@@ -1,0 +1,25 @@
+zapisz_tryb_cwu:
+  alias: Zapisz ustawienia CWU
+  sequence:
+    - service: rest_command.zapisz_cwu
+  mode: single
+zapisz_temperatury_cwu:
+  alias: Zapisz temperatury CWU
+  sequence:
+    - service: rest_command.ustaw_temp_cwu
+  mode: single
+zapisz_ogrzewanie:
+  alias: Zapisz tryb ogrzewania
+  sequence:
+    - service: rest_command.zapisz_tryb_ogrzewania
+  mode: single
+zapisz_temp_pomieszczenia:
+  alias: Zapisz temperaturę pomieszczenia
+  sequence:
+    - service: rest_command.zapisz_temp_pomieszczenia
+  mode: single
+zapisz_antylegionella:
+  alias: Zapisz tryb antylegionella
+  sequence:
+    - service: rest_command.zapisz_antylegionella
+  mode: single
