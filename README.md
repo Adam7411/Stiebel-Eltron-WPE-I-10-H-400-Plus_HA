@@ -1,6 +1,7 @@
 Servicewelt Stiebel Eltron + Home Assistant
 
-![screenshoteasy (3)](https://github.com/user-attachments/assets/68b98688-3cbe-4da6-9cb5-c5b27469b862)
+
+![ChatGPT Image May 18, 2025, 07_18_35 PM](https://github.com/user-attachments/assets/c74c7744-5b17-4d73-bed7-3b574b2c934c)
 
 
 Testowane na panelu sterowania Servicewelt pompy gruntowej Stiebel Eltron WPE-I 10 H 400 Plus.
