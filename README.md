@@ -1,8 +1,10 @@
+Stiebel Eltron WPE I 10 H 400 Plus encje w Home Assistant
+
 P.S stworzone amatorsko z pomocą AI 
 
 Testowane na panelu sterowania Stiebel Eltron WPE-I 10 H 400 Plus
 po lokalnym adresie modułu ISG w sieci domowej z strony panelu sterowania wyciągnięde narzędziem developerskim kilka głównych danych do Home Assistant (mało ale moj panel ISG dużo niedaje)
-Główny zamiar odczyt podstawowych temparatur sterowanie pompą i z czasem automatyzacje w HA.
+Główny zamiar odczyt podstawowych temparatur, sterowanie pompą i z czasem automatyzacje w HA itp.
 
 
 
