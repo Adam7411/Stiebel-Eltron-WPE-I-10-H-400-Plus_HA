@@ -4,7 +4,7 @@ Servicewelt Stiebel Eltron + Home Assistant
 ![ChatGPT Image May 18, 2025, 07_18_35 PM](https://github.com/user-attachments/assets/c74c7744-5b17-4d73-bed7-3b574b2c934c)
 
 
-Testowane na panelu sterowania Servicewelt pompy gruntowej Stiebel Eltron WPE-I 10 H 400 Plus, moduł ISG niełączy się z pompą przez CAN.
+Testowane na panelu sterowania Servicewelt pompy gruntowej Stiebel Eltron WPE-I 10 H 400 Plus, moduł ISG niełączy się z tą pompą przez CAN.
 ![WPE-I 10 H 400 PLUS](https://github.com/user-attachments/assets/a3c94749-cb8b-4e89-ba24-e2fa1e06cecf)
 
 
