@@ -5,6 +5,9 @@ Servicewelt Stiebel Eltron + Home Assistant
 
 SOFTWARE POMPY 15.1.17
 
+![Bez tytułu](https://github.com/user-attachments/assets/52de6584-1345-4f77-8788-380b35f6a730)
+
+
 Testowane na panelu lokalnym sterowania Servicewelt pompy Stiebel Eltron WPE-I 10 H 400 Plus, moduł ISG niełączy się z tą pompą przez CAN. 
 
 ![WPE-I 10 H 400 PLUS](https://github.com/user-attachments/assets/a3c94749-cb8b-4e89-ba24-e2fa1e06cecf)
