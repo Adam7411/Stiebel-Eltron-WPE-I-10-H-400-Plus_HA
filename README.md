@@ -30,7 +30,7 @@ Wszystkie adresy URL w pliku configuration.yaml korzystają z adresu http://192.
 
 ![screenshoteasy (2)](https://github.com/user-attachments/assets/e4b19753-3fd1-4ede-9add-28b496affe6e)
 
-Do pliku configuration.yaml , podmieniamy na swój lokalny adres modułu ISG
+Do pliku configuration.yaml , kopiujemy kod podmieniamy na swój lokalny adres modułu ISG
 ```yaml
 rest_command:
 
