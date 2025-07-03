@@ -24,7 +24,8 @@ Wszystkie adresy URL w pliku configuration.yaml korzystają z adresu http://192.
 
 
 
-![screenshoteasy](https://github.com/user-attachments/assets/706574bf-ad7a-48af-915c-75855bab6ace)
+![stiebel1](https://github.com/user-attachments/assets/f7b1c5e7-b89a-49ca-8c60-8cd553de6ad0)
+
 
 
 ![screenshoteasy (2)](https://github.com/user-attachments/assets/e4b19753-3fd1-4ede-9add-28b496affe6e)
